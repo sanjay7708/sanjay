@@ -6,5 +6,6 @@ h11==0.14.0
 packaging==24.2
 sqlparse==0.5.3
 typing_extensions==4.12.2
+unicorn==2.1.1
 uvicorn==0.34.0
 whitenoise==6.8.2
